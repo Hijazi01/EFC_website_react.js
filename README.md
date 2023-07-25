@@ -13,11 +13,10 @@ Start the development server: npm start
 The app should now be running on http://localhost:3000/.
 
 ```
- git clone https://github.com/moustafashahin122/efc.git
-cd efc
- npm install
- npm start
-
+ *git clone https://github.com/moustafashahin122/efc.git
+ *cd efc
+ *npm install
+ *npm start
 
 ```
 
